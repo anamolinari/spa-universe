@@ -43,7 +43,8 @@ nav a:focus {
     font-weight: 700
 }
 
-.container {
+.container,
+.title {
     display: flex;
     flex-direction: column;
     align-items: center;
